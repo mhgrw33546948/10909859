@@ -1,2 +1,3 @@
+out.write(”aString”);
 out = new BufferedWriter(new FileWriter(”filename”, true));
 hello world
