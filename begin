@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 } catch (IOException e) {
 out.write(”aString”);
 out = new BufferedWriter(new FileWriter(”filename”, true));
