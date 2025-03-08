@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 // do the thing you do
 ResultSet rs = ps.executeQuery();
 } catch (IOException e) {
