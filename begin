@@ -1,3 +1,4 @@
+Properties props = new Properties();
 test.fetch();
 Class.forName(driverClass);
 con=DriverManager.getConnection(url, userName, password);
