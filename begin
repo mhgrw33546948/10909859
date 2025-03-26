@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 out.write(”aString”);
 try {
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
