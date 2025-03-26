@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 public void fetch() throws SQLException, IOException
 out.write(”aString”);
 try {
