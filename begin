@@ -1,3 +1,4 @@
+} finally {
 // error processing code
 props.load(fs);
 test.init();
